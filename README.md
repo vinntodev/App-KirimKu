@@ -7,7 +7,7 @@ Proyek ini adalah aplikasi web sederhana untuk mengelola pengiriman barang oleh 
 ## 📸 Screenshots Aplikasi
 
 ### Halaman Login User
-![Login User](screenshots/login-user.jpeg)
+![Login User](https://github.com/vinntodev/App-KirimKu/blob/e3ebfa897972aa25a4ea728e53a10b3deb0d8492/assets/screenshot/login-user.jpeg)
 *Halaman login untuk pengguna biasa dengan desain modern dan gradient background*
 
 ### Halaman Registrasi
