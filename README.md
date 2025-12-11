@@ -7,31 +7,31 @@ Proyek ini adalah aplikasi web sederhana untuk mengelola pengiriman barang oleh 
 ## 📸 Screenshots Aplikasi
 
 ### Halaman Login User
-![Login User](screenshots/login-user.png)
+![Login User](screenshots/login-user.jpeg)
 *Halaman login untuk pengguna biasa dengan desain modern dan gradient background*
 
 ### Halaman Registrasi
-![Registrasi](screenshots/register.png)
+![Registrasi](screenshots/register-user.jpeg)
 *Form registrasi pengguna baru dengan validasi lengkap*
 
 ### Dashboard User
-![Dashboard User](screenshots/dashboard-user.png)
+![Dashboard User](screenshots/dashboard-user.jpeg)
 *Dashboard utama pengguna menampilkan statistik pengiriman dan daftar pengiriman terbaru*
 
 ### Form Tambah Pengiriman
-![Tambah Pengiriman](screenshots/tambah-pengiriman.png)
+![Tambah Pengiriman](screenshots/tambah-pengiriman.jpeg)
 *Form untuk membuat pengiriman baru dengan pilihan ekspedisi dan perhitungan biaya otomatis*
 
 ### Halaman Tracking
-![Tracking](screenshots/tracking.png)
+![Tracking](screenshots/tracking.jpeg)
 *Detail tracking pengiriman dengan timeline riwayat pergerakan paket*
 
 ### Halaman Login Admin
-![Login Admin](screenshots/admin-login.png)
+![Login Admin](screenshots/admin-login.jpeg)
 *Halaman login khusus untuk administrator*
 
 ### Dashboard Admin
-![Dashboard Admin](screenshots/admin-dashboard.png)
+![Dashboard Admin](screenshots/admin-dashboard.jpeg)
 *Panel admin untuk menyetujui, membatalkan, dan mengubah status pengiriman*
 
 > **Catatan:** Screenshot di atas adalah contoh. Pastikan Anda menambahkan file gambar screenshot ke folder `screenshots/` di root project dengan nama file yang sesuai.
