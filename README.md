@@ -4,6 +4,40 @@ Proyek ini adalah aplikasi web sederhana untuk mengelola pengiriman barang oleh 
 
 ---
 
+## 📸 Screenshots Aplikasi
+
+### Halaman Login User
+![Login User](screenshots/login-user.png)
+*Halaman login untuk pengguna biasa dengan desain modern dan gradient background*
+
+### Halaman Registrasi
+![Registrasi](screenshots/register.png)
+*Form registrasi pengguna baru dengan validasi lengkap*
+
+### Dashboard User
+![Dashboard User](screenshots/dashboard-user.png)
+*Dashboard utama pengguna menampilkan statistik pengiriman dan daftar pengiriman terbaru*
+
+### Form Tambah Pengiriman
+![Tambah Pengiriman](screenshots/tambah-pengiriman.png)
+*Form untuk membuat pengiriman baru dengan pilihan ekspedisi dan perhitungan biaya otomatis*
+
+### Halaman Tracking
+![Tracking](screenshots/tracking.png)
+*Detail tracking pengiriman dengan timeline riwayat pergerakan paket*
+
+### Halaman Login Admin
+![Login Admin](screenshots/admin-login.png)
+*Halaman login khusus untuk administrator*
+
+### Dashboard Admin
+![Dashboard Admin](screenshots/admin-dashboard.png)
+*Panel admin untuk menyetujui, membatalkan, dan mengubah status pengiriman*
+
+> **Catatan:** Screenshot di atas adalah contoh. Pastikan Anda menambahkan file gambar screenshot ke folder `screenshots/` di root project dengan nama file yang sesuai.
+
+---
+
 ## 1. Fitur Utama
 
 - **Autentikasi Pengguna**
@@ -87,6 +121,8 @@ Proyek ini adalah aplikasi web sederhana untuk mengelola pengiriman barang oleh 
   - `tambah_pengiriman.php` – form membuat pengiriman baru.
   - `logout.php` – logout user/admin.
   - `db_logistik.sql` – file SQL skema & sample data.
+  - `assets/` – folder untuk CSS, JavaScript, dan gambar (logo ekspedisi).
+  - `screenshots/` – folder untuk menyimpan screenshot aplikasi (opsional).
 
 ---
 
@@ -154,6 +190,7 @@ define('DB_NAME', 'db_logistik');
 - Tambah role/otorisasi lebih granular (misal: CS, kurir, admin gudang).
 - Integrasi API ekspedisi nyata (JNE, J&T, dll) jika dibutuhkan.
 - Tambah export laporan pengiriman (CSV/Excel).
+
 
 
 
