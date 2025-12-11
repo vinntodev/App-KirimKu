@@ -11,27 +11,27 @@ Proyek ini adalah aplikasi web sederhana untuk mengelola pengiriman barang oleh 
 *Halaman login untuk pengguna biasa dengan desain modern dan gradient background*
 
 ### Halaman Registrasi
-![Registrasi](screenshots/register-user.jpeg)
+![Registrasi](https://github.com/vinntodev/App-KirimKu/blob/9ed3706bcf0d20d3608add7eb072e88f1db9d672/assets/screenshot/register-user.jpeg)
 *Form registrasi pengguna baru dengan validasi lengkap*
 
 ### Dashboard User
-![Dashboard User](screenshots/dashboard-user.jpeg)
+![Dashboard User](https://github.com/vinntodev/App-KirimKu/blob/9ed3706bcf0d20d3608add7eb072e88f1db9d672/assets/screenshot/dashboard-user.jpeg)
 *Dashboard utama pengguna menampilkan statistik pengiriman dan daftar pengiriman terbaru*
 
 ### Form Tambah Pengiriman
-![Tambah Pengiriman](screenshots/tambah-pengiriman.jpeg)
+![Tambah Pengiriman](https://github.com/vinntodev/App-KirimKu/blob/9ed3706bcf0d20d3608add7eb072e88f1db9d672/assets/screenshot/tambah-pengiriman.jpeg)
 *Form untuk membuat pengiriman baru dengan pilihan ekspedisi dan perhitungan biaya otomatis*
 
 ### Halaman Tracking
-![Tracking](screenshots/tracking.jpeg)
+![Tracking](https://github.com/vinntodev/App-KirimKu/blob/9ed3706bcf0d20d3608add7eb072e88f1db9d672/assets/screenshot/tracking.jpeg)
 *Detail tracking pengiriman dengan timeline riwayat pergerakan paket*
 
 ### Halaman Login Admin
-![Login Admin](screenshots/admin-login.jpeg)
+![Login Admin](https://github.com/vinntodev/App-KirimKu/blob/9ed3706bcf0d20d3608add7eb072e88f1db9d672/assets/screenshot/admin_login.jpeg)
 *Halaman login khusus untuk administrator*
 
 ### Dashboard Admin
-![Dashboard Admin](screenshots/admin-dashboard.jpeg)
+![Dashboard Admin](https://github.com/vinntodev/App-KirimKu/blob/9ed3706bcf0d20d3608add7eb072e88f1db9d672/assets/screenshot/admin_dashboard.jpeg)
 *Panel admin untuk menyetujui, membatalkan, dan mengubah status pengiriman*
 
 > **Catatan:** Screenshot di atas adalah contoh. Pastikan Anda menambahkan file gambar screenshot ke folder `screenshots/` di root project dengan nama file yang sesuai.
